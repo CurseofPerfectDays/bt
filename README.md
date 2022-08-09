@@ -1,10 +1,12 @@
 # bt
-a script for restarting bluetooth driver in xUbuntu
+##a script for restarting bluetooth driver in xUbuntu
+###(particularly Pop_OS 20.04LTS)
+####(some commands not work on newer builds)
 
-open terminal 
+first: open terminal (typically ctrl+shift+t or super+t) 
 
-type:
-nano bt
+then type:
+'nano bt'
 
 copy:
 
